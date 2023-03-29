@@ -1,4 +1,4 @@
-# Wireframe (Média Fidelidade) - DIO (UX/UI)
+# Desafios- DIO.me (UX/UI Curso)
 
 > + Wireframe em **Média Fidelidade** desenvolvido para o desafio de projeto do **Bootcamp da DIO.me em UI/UX Design!**
 
